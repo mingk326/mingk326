@@ -10,7 +10,6 @@ Contact:
 
 - E-mail: <1768432482@qq.com>
 
-- Telegram Messenger: [@wenqiofficial](https://t.me/wenqiofficial)
 
 ### 💻 Environment
 
