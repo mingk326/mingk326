@@ -22,4 +22,4 @@ Contact:
 [![ASUS TUF Gaming F15 (2023)](https://img.shields.io/badge/ASUS%20TUF%20Gaming%20F15%20(2023)-666666?style=flat-square&logo=asus&logoColor=%23000000)](https://www.asus.com.cn/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-f15-2023/)
 
 
-![ayaya](https://count.ayaya.beauty/get/@WenqiOfficial?theme=rule34)
+![ayaya](https://count.ayaya.beauty/get/@mingk326?theme=rule34)
