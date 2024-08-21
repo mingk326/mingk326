@@ -19,8 +19,6 @@ Contact:
 
 [![Redmi Note12 Turbo](https://img.shields.io/badge/Redmi%20Note12%20Turbo-%23FF6900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmi-note-12-turbo)
 [![ROG Phone 5](https://img.shields.io/badge/ROG%20Phone%205-000000?style=flat-square&logo=republicofgamers&logoColor=%23FF0029)](https://rog.asus.com.cn/phones/rog-phone-5-model/)
-[![Nokia 6](https://img.shields.io/badge/Nokia%206-4F4F4F?style=flat-square&logo=nokia&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.nokia.com/phones/en_int/nokia-6-0)
-[![iPhone 8](https://img.shields.io/badge/iPhone%208-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP767)
 [![ASUS UX4100EG](https://img.shields.io/badge/ASUS%20UX4100EG-0077FF?style=flat-square&logo=asus&logoColor=FFFFFF&labelColor=0077FF)](https://www.asus.com.cn/laptops/for-home/zenbook/ux4100e/)
 
 
