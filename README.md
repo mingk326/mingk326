@@ -19,7 +19,7 @@ Contact:
 
 [![Redmi Note12 Turbo](https://img.shields.io/badge/Redmi%20Note12%20Turbo-%23FF6900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmi-note-12-turbo)
 [![ROG Phone 5](https://img.shields.io/badge/ROG%20Phone%205-000000?style=flat-square&logo=republicofgamers&logoColor=%23FF0029)](https://rog.asus.com.cn/phones/rog-phone-5-model/)
-[![ASUS UX4100EG](https://img.shields.io/badge/ASUS%20UX4100EG-0077FF?style=flat-square&logo=asus&logoColor=FFFFFF&labelColor=0077FF)](https://www.asus.com.cn/laptops/for-home/zenbook/ux4100e/)
+[![ASUS TUF Gaming F15 (2023)](https://img.shields.io/badge/ASUS%20TUF%20Gaming%20F15%20(2023)-666666?style=flat-square&logo=asus&logoColor=%23000000)](https://www.asus.com.cn/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-f15-2023/)
 
 
 ![ayaya](https://count.ayaya.beauty/get/@WenqiOfficial?theme=rule34)
