@@ -4,7 +4,7 @@ Not best yet, but to be better!
 
 Nice to meet you!
 
-[![Sakurai's github stats](https://github-readme-stats.vercel.app/api?username=WenqiOfficial&show_icons=true)](https://github.com/WenqiOfficial)
+[![Sakurai's github stats](https://github-readme-stats.vercel.app/api?username=mingk326&show_icons=true)](https://github.com/mingk326)
 
 Contact:
 
