@@ -8,7 +8,7 @@ Nice to meet you!
 
 Contact:
 
-- E-mail: <li2747297361@163.com>
+- E-mail: <1768432482@qq.com>
 
 - Telegram Messenger: [@wenqiofficial](https://t.me/wenqiofficial)
 
