@@ -18,7 +18,7 @@ Contact:
 ### 📱 Devices
 
 [![Redmi Note12 Turbo](https://img.shields.io/badge/Redmi%20Note12%20Turbo-%23FF6900?style=flat-square&logo=xiaomi&logoColor=ffffff
-)](https://www.mi.com/redminote9pro)
+)](https://www.mi.com/redmi-note-12-turbo)
 [![Redmi 4 A](https://img.shields.io/badge/Redmi%204%20A-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://versus.com/cn/xiaomi-redmi-4a-16gb)
 [![Nokia 6](https://img.shields.io/badge/Nokia%206-4F4F4F?style=flat-square&logo=nokia&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.nokia.com/phones/en_int/nokia-6-0)
 [![iPhone 8](https://img.shields.io/badge/iPhone%208-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP767)
