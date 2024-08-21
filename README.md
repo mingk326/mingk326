@@ -4,7 +4,7 @@
 
 Nice to meet you!
 
-[![august's github stats](https://github-readme-stats.vercel.app/api?username=mingk326&show_icons=true)](https://github.com/mingk326)
+[![august's github stats](https://github-readme-stats.vercel.app/api?username=mingk326&show_icons=true,cn)](https://github.com/mingk326)
 
 Contact:
 
